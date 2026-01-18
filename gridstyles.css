@@ -1,2 +1,4 @@
+body {padding:20px;}
 .gridcontainer {display:grid;
+                border:1px solid black;
 }
